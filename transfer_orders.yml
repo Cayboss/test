@@ -1,3 +1,4 @@
+TEST
 models:
   - name: transfer_orders
     description: Shows all inventory transactions that involve transfer from a branch to another
